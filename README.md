@@ -1,7 +1,5 @@
 # Hi there, I'm Silas Möhler! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **Software Engineer, UX Designer and Entrepreneur** with experience in **XR techonologies, UI Design team coordination and project management**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
