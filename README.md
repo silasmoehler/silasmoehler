@@ -8,7 +8,6 @@ I'm a passionate **Software Engineer, UX Designer and Entrepreneur** with experi
 - 🔭 Working on: **Project Oppia**
 - 🌍 Languages: **German, English, JS, TS, Swift, Kotlin, Dart**
 - 📫 How to reach me: **silas.moehler@project-oppia.com**
-- ⚡ Fun fact: **I have a congenital heart defect.**
 
 ## Check this out 📬
 
