@@ -2,11 +2,11 @@
 
 ## About Me 🚀
 
-I'm a passionate **Software Engineer, UX Designer and Entrepreneur** with experience in **XR techonologies, UI Design team coordination and project management**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineer, UX Designer and Entrepreneur** with experience in **XR techonologies, UI Design team coordination and project management** at Project Oppia. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **TypeScript**
 - 🔭 Working on: **Project Oppia**
-- 🌍 Languages: **German, English, JS, TS, Swift, Kotlin, Dart**
+- 🌍 Languages: **German, English, JS, TS, Swift, Kotlin, Dart, React, SQL, Python**
 - 📫 How to reach me: **silas.moehler@project-oppia.com**
 
 ## Check this out 📬
