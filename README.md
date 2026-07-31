@@ -9,8 +9,7 @@ I'm a passionate **Software Engineer, UX Designer and Entrepreneur** with experi
 - 🌍 Languages: **German, English, JS, TS, Swift, Kotlin, Dart, React, SQL, Python**
 - 📫 How to reach me: **silas.moehler@project-oppia.com**
 
-## Check this out 📬
+## My Socials 🫂
 
-- **[About me]**(https://project-oppia.com/coming-soon)
-- **[LinkedIn]**(https://www.linkedin.com/in/silas-moehler)
-- **[Instagram]**(https://www.instagram.com/silas.moehler)
+* [My LinkedIn](https://www.linkedin.com/in/silas-moehler)
+* [My Instagram](https://www.instagram.com/silas.moehler)
