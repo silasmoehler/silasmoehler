@@ -6,7 +6,7 @@ I'm a passionate **software engineer, ux designer and economist** with experienc
 
 - 🌱 Currently learning: **TypeScript**
 - 🔭 Working on: **Project Oppia**
-- 🌍 Languages: **German, English, JS, TS, Swift, Kotlin, Dart, SQL, Python**
+- 🌍 Technologies: **JS, TS, React, Node.js, Tailwind, Flutter, Google Cloud**
 - 📫 Send me an email: **silas.moehler@project-oppia.com**
 
 ## My Socials 🫂
