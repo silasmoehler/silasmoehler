@@ -9,6 +9,6 @@ I'm a passionate **software engineer, ux designer and economist** with experienc
 - 🌍 Technologies: **JS, TS, React, Node.js, Tailwind, Figma**
 - 📫 Send me an email: **silas.moehler@project-oppia.com**
 
-## On The Web 🌐
+## Web 🌐
 
 https://silasmoehler.me
