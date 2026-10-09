@@ -7,7 +7,7 @@ I'm a passionate **software engineer, ux designer and economist** with experienc
 - 🌱 Currently learning: **TypeScript**
 - 🔭 Working on: **Software Distribution | Silas Möhler**
 - 🌍 Technologies: **JS, TS, React, Node.js, Tailwind, Figma**
-- 📫 Send me an email: **silas.moehler@project-oppia.com**
+- 📫 Send me an email: **hello@silasmoehler.me**
 
 ## Website 🌐
 
